@@ -1,5 +1,6 @@
 var Discord = require('discord.io');
 var logger = require('winston');
+var auth = require('./auth.json');
 var Player = [ 
 {name : "AC Swamp",score :2, don: 0},
 {name : "AC Vanstrom",score :21 , don : 16},
