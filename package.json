@@ -4,7 +4,7 @@
   "description" : "My own Discord bot",
   "main" : "bot.js",
   "author" : "MR.EL'",
-  "repository": "git@github.com:kakatusas/AC-Bot.git",
+  "repository": "git@github.com:Kakatusas/AC-Bot.git",
  "dependencies": {
    "discord.io": "^2.5.1",
     "winston": "^2.3.1"
