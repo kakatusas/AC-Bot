@@ -6,7 +6,7 @@
   "author" : "MR.EL'",
   "repository": "git@github.com:kakatusas/AC-Bot.git",
  "dependencies": {
-    "Discord.io": "2.5.1",
-    "winston": "2.3.1"
+   "discord.io": "^2.5.1",
+    "winston": "^2.3.1"
   }
 }
