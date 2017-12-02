@@ -1,4 +1,4 @@
-var Discord = require('discord.io');
+var Discord = require('Discord.io');
 var logger = require('winston');
 var auth = require('./auth.json');
 var Player = [ 
