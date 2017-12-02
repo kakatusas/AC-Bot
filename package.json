@@ -8,7 +8,7 @@
     "start": "node bot.js"
   },
  "dependencies": {
-    "discord.io": "^2.5.1",
+    "Discord.io": "^2.5.1",
     "winston": "^2.3.1"
   }
 }
