@@ -7,8 +7,5 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "dependencies": {
-    "request": "2.81.0" ,
 
-  }
 }
